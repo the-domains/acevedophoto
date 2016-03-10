@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AcevedoPhoto]]></title>
+        <description><![CDATA[AcevedoPhoto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 12:14:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A New Era]]></title>
+            <description><![CDATA[<article><h1>A New Era</h1><p>Be on the lookout for my new website.</p></article>]]></description>
+            <link>undefineda-new-era/index.html</link>
+            <guid isPermaLink="false">9d2d2ad2-b062-43fc-bca4-e618ac4cbc8c</guid>
+            <pubDate>Thu, 10 Mar 2016 12:13:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
