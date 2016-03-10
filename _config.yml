@@ -1,28 +1,40 @@
-name: AcevedoPhoto
-favicon: null
-layout_spectrum: 0.6137506675440818
-typography_spectrum: 0.8598538967780769
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.9006445
+  brandStrength: 0.1740376076195389
+  lightness: 0.5773362
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1740376076195389
-  lightness: 0.22579632909037173
-  saturation: 0.8050725855864584
-  rhythmicContrast: 0.08824083535000682
-purpose: []
+  rhythmicContrast: 0.5161117
+typography_spectrum: 0.8598538967780769
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: AcevedoPhoto
