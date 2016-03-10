@@ -1,0 +1,28 @@
+name: AcevedoPhoto
+favicon: null
+layout_spectrum: 0.6137506675440818
+typography_spectrum: 0.8598538967780769
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1740376076195389
+  lightness: 0.22579632909037173
+  saturation: 0.8050725855864584
+  rhythmicContrast: 0.08824083535000682
+purpose: []
