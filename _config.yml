@@ -1,8 +1,8 @@
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -13,28 +13,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.6044776
+  saturation: 0.5694963
   brandStrength: 0.1740376076195389
-  lightness: 0.4361008
+  lightness: 0.6693097
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0.9020522
+  rhythmicContrast: 0.2229478
 typography_spectrum: 0.8598538967780769
 layout_spectrum: 0.3283582
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: AcevedoPhoto
