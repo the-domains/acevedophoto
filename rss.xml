@@ -4,7 +4,7 @@
         <description><![CDATA[AcevedoPhoto]]></description>
         <link>https://thegrid.ai/acevedophoto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 23:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 23:08:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/acevedophoto/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Just playing.]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/acevedophoto/test-linking-to-my-website/index.html</link>
             <guid isPermaLink="false">da0002e5-9106-4b98-a349-db44e31e160b</guid>
             <pubDate>Fri, 22 Apr 2016 11:45:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chicago Valentines Day]]></title>
-            <description><![CDATA[<h1>Chicago Valentines Day</h1>]]></description>
-            <link>https://thegrid.ai/acevedophoto/chicago-valentines-day/index.html</link>
-            <guid isPermaLink="false">2149bb27-47a1-483a-97e3-3f4daa69fad7</guid>
-            <pubDate>Sat, 12 Mar 2016 12:24:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
