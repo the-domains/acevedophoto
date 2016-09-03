@@ -1,12 +1,30 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+typography_spectrum: 0.8598538967780769
+color:
+  saturation: 0.5694963
+  brandStrength: 0.1740376076195389
+  lightness: 0.6693097
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  rhythmicContrast: 0.2229478
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3283582
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: AcevedoPhoto
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -19,22 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+description: My Photographic Journey
 purpose: []
-color:
-  saturation: 0.5694963
-  brandStrength: 0.1740376076195389
-  lightness: 0.6693097
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.2229478
-typography_spectrum: 0.8598538967780769
-layout_spectrum: 0.3283582
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: AcevedoPhoto
