@@ -37,5 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: AcevedoPhoto
 description: My Photographic Journey
 purpose: []
